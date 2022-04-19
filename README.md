@@ -1,6 +1,6 @@
-### Hello World !!!! 
+### Hello World !!!! :earth_americas:
 - 🔭 I’m currently working on computer science master certificate from NJIT
-- 🌱 I’m currently learning web deelopment systems including docker, github, python, python libraries, heroku, flask, bluprint, CI/CD
+- 🌱 I’m currently learning web devlopment systems including docker, github, python, python libraries, heroku, flask, bluprint, CI/CD
 <!--
 **DianaZawislak/dianazawislak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
