@@ -1,4 +1,4 @@
-# Hello World !!!! :earth_americas:
+# Hello World !!!! :earth_americas: :poland:
 
 - 🔭 I’m currently working on computer science master certificate from NJIT
 - 🌱 I’m currently learning web devlopment systems including docker, github, python, python libraries, heroku, flask, bluprint, CI/CD
