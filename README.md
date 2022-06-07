@@ -47,6 +47,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="sqlite" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="ibm" width="40" height="40"/> 
+          
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ibm" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="ibm" width="40" height="40"/>           
  </p>
 
 
