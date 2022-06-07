@@ -5,7 +5,10 @@
 - 📫 How to reach me: diana.zawislak@icloud.com
 - 👯 I’m looking to collaborate on any project that will allow me to utilize and EXPAND my software engineering skills
 - 😄 I am extremly thirsty of new knowledge and spend my days and nights expanding and improving my tech skills
-- Connect with me here (https://www.linkedin.com/in/dianazawislak1980/)
+- Connect with me 
+<p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
+          </p>
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-dianazawislak&color=blue)
 
@@ -31,12 +34,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="sqlite" width="40" height="40"/> 
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="sqlite" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="sqlite" width="40" height="40"/> 
+ 
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="sqlite" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="ibm" width="40" height="40"/> 
  </p>
+
 
 
 <!--
