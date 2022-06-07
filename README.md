@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-<imh src="[https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg](https://raw.githubusercontent.com/DianaZawislak/devicon/master/icons/flask/flask-original.svg)" alt="flask" width="40" height="40"/>
+<imh src="https://raw.githubusercontent.com/DianaZawislak/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
  </p>
 
 
