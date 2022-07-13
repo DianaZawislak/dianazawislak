@@ -6,10 +6,8 @@
 - 👯 I’m looking to collaborate on any project that will allow me to utilize and EXPAND my software engineering skills
 - 😄 I am extremly thirsty of new knowledge and spend my days and nights expanding and improving my tech skills
 - Connect with me 
-<p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
-          </p>
-          
-<p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://1drv.ms/u/s!As4WOhnJINdeg_w3D2evQYntwGvRLw?e=REFHZs" width="160" height="160"></a>
+<p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="250" height="250"></a></p>                
+<p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://github.com/DianaZawislak/My-Portfolio/blob/main/app/static/images/briefcase.png" width="250" height="70"></a>
           </p>
 
 
