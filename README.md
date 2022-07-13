@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
           </p>
           
-          <p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
+<p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://1drv.ms/u/s!As4WOhnJINdeg_w3D2evQYntwGvRLw?e=REFHZs" width="160" height="160"></a>
           </p>
 
 
