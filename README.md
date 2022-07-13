@@ -8,6 +8,9 @@
 - Connect with me 
 <p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
           </p>
+          
+          <p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="160" height="160"></a>
+          </p>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-dianazawislak&color=blue)
