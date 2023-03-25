@@ -1,11 +1,21 @@
 # Hello World !!!! :earth_americas: :poland: :us:
 
-- 🔭 I’m currently working on computer science master certificate from NJIT
-- 🌱 I’m currently learning web devlopment systems including docker, github, python, python libraries, heroku, flask, bluprint, CI/CD
-- 📫 How to reach me: diana.zawislak@icloud.com
-- 👯 I’m looking to collaborate on any project that will allow me to utilize and EXPAND my software engineering skills
-- 😄 I am extremly thirsty of new knowledge and spend my days and nights expanding and improving my tech skills
-- Connect with me 
+I am a highly motivated and enthusiastic Computer Science graduate with a Master's degree from NJIT. My academic background has equipped me with a deep understanding of computer systems and software engineering principles.
+
+As a lifelong learner, I am constantly expanding my skills and knowledge in web development systems such as Docker
+- GitHub
+- Python
+- Python libraries
+- Heroku
+- Flask
+- NextJs
+- REACT
+- OpenAI
+- CI/CD 
+- 
+I am driven by my thirst for new knowledge and my passion for technology.
+
+I am seeking opportunities to leverage my skills and contribute to the growth and success of an innovative organization. If you would like to learn more about me, please feel free to email me at diana.zawislak@icloud.com.  
 <p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="250" height="70"></a> </p>                
 <p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://github.com/DianaZawislak/My-Portfolio/blob/main/app/static/images/briefcase.png" width="250" height="70"></a>
           </p>
