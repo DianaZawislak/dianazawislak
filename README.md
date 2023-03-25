@@ -2,7 +2,8 @@
 
 I am a highly motivated and enthusiastic Computer Science graduate with a Master's degree from NJIT. My academic background has equipped me with a deep understanding of computer systems and software engineering principles.
 
-As a lifelong learner, I am constantly expanding my skills and knowledge in web development systems such as Docker
+As a lifelong learner, I am constantly expanding my skills and knowledge in web development systems and software engineering tools such as 
+- Docker
 - GitHub
 - Python
 - Python libraries
@@ -12,7 +13,7 @@ As a lifelong learner, I am constantly expanding my skills and knowledge in web 
 - REACT
 - OpenAI
 - CI/CD 
-- 
+
 I am driven by my thirst for new knowledge and my passion for technology.
 
 I am seeking opportunities to leverage my skills and contribute to the growth and success of an innovative organization. If you would like to learn more about me, please feel free to email me at diana.zawislak@icloud.com.  
