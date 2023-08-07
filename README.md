@@ -3,6 +3,10 @@
 I am a highly motivated and enthusiastic Computer Science graduate with a Master's degree from NJIT. My academic background has equipped me with a deep understanding of computer systems and software engineering principles.
 
 As a lifelong learner, I am constantly expanding my skills and knowledge in web development systems and software engineering tools such as 
+- Node.js
+- Next.js
+- Javascript
+- typescript
 - Docker
 - GitHub
 - Python
