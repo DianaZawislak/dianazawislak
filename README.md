@@ -1,6 +1,7 @@
 # Hello World !!!! :earth_americas: :poland: :us:
 
 I am a highly motivated and enthusiastic Computer Science graduate with a Master's degree from NJIT. My academic background has equipped me with a deep understanding of computer systems and software engineering principles.
+I am also a memeber of Women in Cyber Security (WiCyS) and participant of SANS CTF.
 
 As a lifelong learner, I am constantly expanding my skills and knowledge in web development systems and software engineering tools such as 
 - Node.js
@@ -16,7 +17,8 @@ As a lifelong learner, I am constantly expanding my skills and knowledge in web 
 - NextJs
 - REACT
 - OpenAI
-- CI/CD 
+- CI/CD
+- penetration testing
 
 I am driven by my thirst for new knowledge and my passion for technology.
 
