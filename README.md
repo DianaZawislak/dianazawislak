@@ -21,7 +21,7 @@ As a lifelong learner, I am constantly expanding my skills and knowledge in web 
 I am driven by my thirst for new knowledge and my passion for technology.
 
 I am seeking opportunities to leverage my skills and contribute to the growth and success of an innovative organization. If you would like to learn more about me, please feel free to email me at diana.zawislak@icloud.com.  
-<p align="center"> <a href="https://www.linkedin.com/in/dianazawislak1980/" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="250" height="70"></a> </p>                
+<p align="center"> <a href="https://www.linkedin.com/in/dianazawislak/" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="250" height="70"></a> </p>                
 <p align="center"> <a href="https://dianazawislak-portfolio.herokuapp.com/" target="_blank"> <img src="https://github.com/DianaZawislak/My-Portfolio/blob/main/app/static/images/briefcase.png" width="250" height="70"></a>
           </p>
 
